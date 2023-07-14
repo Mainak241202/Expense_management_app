@@ -87,7 +87,7 @@ const Analytics = ({ allTransaction }) => {
           </div>
         </div>
       </div>
-      <div className="row mt-3">
+      <div className="row mt-3 m-auto">
         <div className="col-md-4">
           <h4>Categorywise Income</h4>
           {categories.map((category) => {
